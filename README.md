@@ -1,11 +1,13 @@
-## OnlineShoppingFinalProject ##
+# OnlineShoppingFinalProject #
+## Student name: Lucas Bandeira ##
+## Student Identification: 23884 ##
 
 
 
-Requirements:
+##Requirements:##
 
-1.Authentication
-Allow User to Signup
+###1.Authentication###
+Allow User to Signup [x]
 Log In using username and password
 Store userID and token once logged in, to keep the user logged in (even after restarting the app)
 
